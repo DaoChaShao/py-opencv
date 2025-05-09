@@ -1,0 +1,4 @@
+kaleido==0.2.1
+numpy==2.2.4
+opencv-python==4.11.0.86
+plotly==6.0.1
